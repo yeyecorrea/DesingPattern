@@ -1,4 +1,4 @@
-﻿namespace PatronDeDiseño.RefactoryMethod
+﻿namespace PatronDeDiseño.RefactoryMethod.Ejemplo1
 {
     /// <summary>
     /// Clase que creadora que hereda de la case CredicardFactory

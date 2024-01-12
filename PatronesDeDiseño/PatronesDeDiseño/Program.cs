@@ -1,4 +1,5 @@
 ﻿using PatronDeDiseño.RefactoryMethod;
+using PatronDeDiseño.RefactoryMethod.Ejemplo1;
 
 ICreditCard creditCard = new PlatinumFactory().CreateProdut();
 if (creditCard != null)

@@ -1,4 +1,4 @@
-﻿namespace PatronDeDiseño.RefactoryMethod
+﻿namespace PatronDeDiseño.RefactoryMethod.Ejemplo1
 {
     /// <summary>
     /// Clase creator declara el metodo de fabrica que va a devolver un objecto d euna clase Producto, las subclases CrediCardFactory normalmente proporciona la implementacion del metodo MakeProduct 
@@ -14,7 +14,7 @@
         /// <returns>ICreditCard</returns>
         public ICreditCard CreateProdut()
         {
-            ICreditCard creditCard = this.MakeProduct();
+            ICreditCard creditCard = MakeProduct();
             return creditCard;
         }
     }

@@ -1,4 +1,4 @@
-﻿namespace PatronDeDiseño.RefactoryMethod
+﻿namespace PatronDeDiseño.RefactoryMethod.Ejemplo1
 {
     public class Titanium : ICreditCard
     {

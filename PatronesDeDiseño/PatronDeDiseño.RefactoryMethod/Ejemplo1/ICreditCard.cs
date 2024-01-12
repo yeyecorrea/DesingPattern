@@ -1,4 +1,4 @@
-﻿namespace PatronDeDiseño.RefactoryMethod
+﻿namespace PatronDeDiseño.RefactoryMethod.Ejemplo1
 {
     /// <summary>
     /// Interfaz que sera la firma de las funcionalidades comunes que las clases de productos concretas deberian implementar
