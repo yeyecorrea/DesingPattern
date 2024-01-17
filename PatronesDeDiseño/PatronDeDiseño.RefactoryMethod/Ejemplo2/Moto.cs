@@ -32,5 +32,10 @@ namespace PatronDeDiseño.RefactoryMethod.Ejemplo2
         {
             throw new NotImplementedException();
         }
+
+        string IAutomovil.TipoDeAutomovil()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

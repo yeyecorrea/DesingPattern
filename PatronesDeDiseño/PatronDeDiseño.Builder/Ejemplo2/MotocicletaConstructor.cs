@@ -17,17 +17,17 @@
 
         public override void ConstruirMotor()
         {
-            vehiculo["chasis"] = "500 cc";
+            vehiculo["motor"] = "500 cc";
         }
 
         public override void ConstruirPuertas()
         {
-            vehiculo["chasis"] = "2";
+            vehiculo["puertas"] = "2";
         }
 
         public override void ConstruirRuedas()
         {
-            vehiculo["chasis"] = "0";
+            vehiculo["ruedas"] = "0";
         }
     }
 }

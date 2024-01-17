@@ -24,11 +24,11 @@
         public void Mostrar()
         {
             Console.WriteLine("\n---------------------------");
-            Console.WriteLine("Vehicle Type: {0}", _tipoVehiculo);
-            Console.WriteLine(" Frame : {0}", _partes["frame"]);
-            Console.WriteLine(" Engine : {0}", _partes["engine"]);
-            Console.WriteLine(" #Wheels: {0}", _partes["wheels"]);
-            Console.WriteLine(" #Doors : {0}", _partes["doors"]);
+            Console.WriteLine("Tipo de Vehiculo: {0}", _tipoVehiculo);
+            Console.WriteLine(" chasis : {0}", _partes["chasis"]);
+            Console.WriteLine(" motor : {0}", _partes["motor"]);
+            Console.WriteLine(" #reudas: {0}", _partes["ruedas"]);
+            Console.WriteLine(" #puertas : {0}", _partes["puertas"]);
         }
     }
 }

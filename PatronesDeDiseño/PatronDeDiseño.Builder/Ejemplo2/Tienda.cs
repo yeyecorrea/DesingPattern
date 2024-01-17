@@ -1,7 +1,7 @@
 ﻿namespace PatronDeDiseño.Builder.Ejemplo2
 {
     /// <summary>
-    /// Clase director
+    /// Clase director, es aquella que define el orden en el que se deben ejecutar los pasos de cosntruccion
     /// </summary>
     public class Tienda
     {

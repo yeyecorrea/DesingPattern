@@ -2,6 +2,8 @@
 {
     /// <summary>
     /// Clase constructora abstracta
+    /// La interfaz constructora especifica métodos para crear las
+    /// distintas partes de los objetos del producto.
     /// </summary>
     public abstract class VehiculoConstructor
     {
@@ -21,8 +23,6 @@
         public abstract void ConstruirMotor();
         public abstract void ConstruirRuedas();
         public abstract void ConstruirPuertas();
-
-
 
     }
 }
