@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\PatronDeDiseño.Builder\PatronDeDiseño.Builder.csproj" />
     <ProjectReference Include="..\PatronDeDiseño.RefactoryMethod\PatronDeDiseño.RefactoryMethod.csproj" />
   </ItemGroup>
 
