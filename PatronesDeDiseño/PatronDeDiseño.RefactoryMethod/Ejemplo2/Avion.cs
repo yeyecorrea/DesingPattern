@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace PatronDeDiseño.RefactoryMethod.Ejemplo2
 {
+    /// <summary>
+    /// Clase producto
+    /// </summary>
     public class Avion : IAutomovil
     {
         public bool Apagar()
