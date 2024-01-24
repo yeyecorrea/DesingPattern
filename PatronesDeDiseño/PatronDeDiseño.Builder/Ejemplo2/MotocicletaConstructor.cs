@@ -1,7 +1,7 @@
 ﻿namespace PatronDeDiseño.Builder.Ejemplo2
 {
     /// <summary>
-    /// 
+    /// clase constructora en concreto
     /// </summary>
     public class MotocicletaConstructor : VehiculoConstructor
     {
