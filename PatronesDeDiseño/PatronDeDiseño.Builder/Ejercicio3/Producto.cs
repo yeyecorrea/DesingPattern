@@ -2,11 +2,11 @@
 {
     /// <summary>
     /// Tiene sentido usar el patrón Builder sólo cuando tus productos son
-    // bastante complejo y requiere una configuración extensa.
+    /// bastante complejo y requiere una configuración extensa.
     //
-    // A diferencia de otros patrones creacionales, diferentes constructores concretos pueden
-    // producir productos no relacionados. En otras palabras, resultados de varios constructores.
-    // puede que no siempre siga la misma interfaz.
+    /// A diferencia de otros patrones creacionales, diferentes constructores concretos pueden
+    /// producir productos no relacionados. En otras palabras, resultados de varios constructores.
+    /// puede que no siempre siga la misma interfaz.
     /// </summary>
     public class Producto
     {
