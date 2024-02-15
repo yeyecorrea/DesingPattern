@@ -10,6 +10,8 @@
   <ItemGroup>
     <ProjectReference Include="..\PatronDeDiseño.Builder\PatronDeDiseño.Builder.csproj" />
     <ProjectReference Include="..\PatronDeDiseño.RefactoryMethod\PatronDeDiseño.RefactoryMethod.csproj" />
+    <ProjectReference Include="..\PatronDeDiseño.Singleton\PatronDeDiseño.Singleton.csproj" />
+    <ProjectReference Include="..\PatronesDeDiseño.Prototype\PatronesDeDiseño.Prototype.csproj" />
   </ItemGroup>
 
 </Project>
